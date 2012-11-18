@@ -1,7 +1,7 @@
 {
   "name": "icanhazprotocol",
   "version": "0.0.1",
-  "description": "Easily create a binary protocols in Node.JS",
+  "description": "Easily create binary protocols in Node.JS",
   "main": "index.js",
   "dependencies": {
     "concentrate": "~0.1.1",
