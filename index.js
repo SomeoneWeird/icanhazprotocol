@@ -1,7 +1,6 @@
 
 var Concentrate = require('concentrate'),
 		Dissolve = require('dissolve'),
-		randomstring = require('randomstring'),
 		util = require('util');
 
 var Protocol = function Protocol() {

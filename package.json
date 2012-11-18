@@ -4,7 +4,6 @@
   "description": "Easily create a binary protocols in Node.JS",
   "main": "index.js",
   "dependencies": {
-    "randomstring": "~1.0.2",
     "concentrate": "~0.1.1",
     "dissolve": "~0.1.1"
   },
