@@ -7,12 +7,12 @@ Installation
 Example
 -
 
-> Look at test.js
+> Take a look at example.js
 
 Test
 -
 
-> ... look at test.js :)
+> Look at test.js
 
 License
 -
